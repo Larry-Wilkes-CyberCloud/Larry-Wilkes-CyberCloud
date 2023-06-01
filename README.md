@@ -4,6 +4,8 @@
 
 - <b>Azure /Cloud Cybersecurity Projects</b>
   - [Created a Live SOC/Honeynet in Azure!](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
+  
+   Information Asset Register 
 
 
 
