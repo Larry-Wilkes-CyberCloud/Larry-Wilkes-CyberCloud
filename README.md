@@ -6,7 +6,7 @@
   - [Created a Live SOC/Honeynet in Azure!](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
   
   - <b>ISO 27001 Projects</b>
-  - [Created a Information Asset Register Presentation!](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
+    - [Created a Information Asset Register Presentation!](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
   
  
   
