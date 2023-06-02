@@ -15,7 +15,7 @@
   - [Created DLP blocking file rule for removable storage device!](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
 
 - <b>Information Security Awareness Campaign</b>
-  - [IS Awareness Video!] (https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
+  - [IS Awareness Video!](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
   
  
   
