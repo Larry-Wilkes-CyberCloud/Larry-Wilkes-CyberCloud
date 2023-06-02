@@ -10,6 +10,9 @@
     
 - <b>Nessus Tanable Scans and Group Policy</b>
    - [Created basic, advance, and advance dynamic scans with Nessus and implemented group policy!](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
+
+- <b>Data Loss Prevention</b>
+  - [Created DLP blocking file rule for removable storage device!](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
   
  
   
