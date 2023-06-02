@@ -8,8 +8,8 @@
 - <b>ISO 27001 Projects</b>
     - [Created a Information Asset Register Presentation!](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
     
-- <b>Nessus Tanable Scans</b>
-   - [Created basic, advance, and advance dynamic scans with Nessus!](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
+- <b>Nessus Tanable Scans and Group Policy</b>
+   - [Created basic, advance, and advance dynamic scans with Nessus and implemented group policy!](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
   
  
   
