@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Larry, Passionate <a href="https://www.linkedin.com/in/larry-wilkes-splunk-engineer/">Cybersecurity Cloud Engineer</a></h1>
+<h1>Hi there, I'm Larry, a professional <a href="https://www.linkedin.com/in/larry-wilkes-splunk-engineer/">Cybersecurity Cloud Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
