@@ -16,6 +16,9 @@
 
 - <b>Information Security Awareness Campaign</b>
   - [IS Awareness Video!](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
+
+- <b>Social Engineering Investigation</b>
+  - [Investigate E-mails sent in and report suspicious items](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation)
   
  
   
