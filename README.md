@@ -1,6 +1,9 @@
-<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes-splunk-engineer/">Cybersecurity Cloud Engineer</a></h1>
+<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes-splunk-engineer/">QA Automation Engineer</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 QA Automation Projects:</h2>
+
+- <b>Project for Software Quality Associates</b>
+    - [This project is aimed to design a test suite for SQA !](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa))
 
 - <b>Azure /Cloud Cybersecurity Projects</b>
     - [Created a Live SOC/Honeynet in Azure!](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
