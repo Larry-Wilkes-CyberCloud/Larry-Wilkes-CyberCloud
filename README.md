@@ -3,7 +3,7 @@
 <h2>👨‍💻 QA Automation Projects:</h2>
 
 - <b>Project for Software Quality Associates</b>
-    - [This project is aimed to design a test suite for SQA !](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa.
+    - [This project is aimed to design a test suite for SQA ! https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa.
  <br>
  <br>
 
