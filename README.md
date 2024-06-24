@@ -4,6 +4,10 @@
 
 - <b>Project for Software Quality Associates</b>
     - [This project is aimed to design a test suite for SQA !](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa))
+ <br>
+ <br>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure /Cloud Cybersecurity Projects</b>
     - [Created a Live SOC/Honeynet in Azure!](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
