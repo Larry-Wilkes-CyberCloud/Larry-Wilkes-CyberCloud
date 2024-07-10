@@ -5,11 +5,6 @@
 - <b>Project for Software Quality Associates (Playwright)</b>
     - [This project is aimed to design a test suite for SQA!](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
- <br>
-
-
-
-
   - <b>API Testing Using Postman</b>
        - [Vehicle VIN validation using Postman!](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
  <br>
