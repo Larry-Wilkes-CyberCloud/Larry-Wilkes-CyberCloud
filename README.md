@@ -1,15 +1,12 @@
-<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes-splunk-engineer/">QA Automation Engineer</a></h1>
+<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes/">QA Automation Engineer</a></h1>
 
 <h2>👨‍💻 QA Automation Projects:</h2>
 
 - <b>Project for Software Quality Associates (Playwright)</b>
     - [This project is aimed to design a test suite for SQA!](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
- <br>
-
- - <b>Project for Software Quality Associates (Playwright)</b>
-    - [Vehicle VIN Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
- <br>
+  - <b>API Testing Using Postman</b>
+    - [Vehicle VIN validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
  <br>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
