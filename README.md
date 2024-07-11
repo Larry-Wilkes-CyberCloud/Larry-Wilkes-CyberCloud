@@ -3,31 +3,31 @@
 <h2>👨‍💻 QA Automation Projects:</h2>
 
 - <b>Project for Software Quality Associates (Playwright)</b>
-    - [This project is aimed to design a test suite for SQA!](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
+    - [This project is aimed to design a test suite for SQA](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
  
   - <b>API Testing Using Postman</b>
-       - [Vehicle VIN validation using Postman!](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
-       - [Vehicle VIN validation using Postman!](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
+       - [Vehicle VIN validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
+       - [Driver Validation API using Postman](https://github.com/Larry-Wilkes-CyberCloud/Larry-Wilkes-CyberCloud-Driver-Validation-Using-Postman)
  <br>
  <br>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure /Cloud Cybersecurity Projects</b>
-    - [Created a Live SOC/Honeynet in Azure!](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
+    - [Created a Live SOC/Honeynet in Azure](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
   
 - <b>ISO 27001 Projects</b>
-    - [Created a Information Asset Register Presentation!](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
+    - [Created a Information Asset Register Presentation](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
     
 - <b>Nessus Tanable Scans and Group Policy</b>
-   - [Created basic, advance, and advance dynamic scans with Nessus and implemented group policy!](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
+   - [Created basic, advance, and advance dynamic scans with Nessus and implemented group policy](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
 
 - <b>Data Loss Prevention</b>
-  - [Created DLP blocking file rule for removable storage device!](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
+  - [Created DLP blocking file rule for removable storage device](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
 
 - <b>Information Security Awareness Campaign</b>
-  - [IS Awareness Video!](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
+  - [IS Awareness Video](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
 
 - <b>Social Engineering Investigation</b>
   - [Investigate E-mails sent in and report suspicious items](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation)
