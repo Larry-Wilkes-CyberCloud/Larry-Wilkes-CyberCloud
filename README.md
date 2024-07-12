@@ -6,9 +6,13 @@
     - [This project is aimed to design a test suite for SQA](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
  
-  - <b>API Testing Using Postman</b>
+  - <b> Manual API Testing Using Postman</b>
        - [Vehicle VIN validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
        - [Driver Validation API using Postman](https://github.com/Larry-Wilkes-CyberCloud/Larry-Wilkes-CyberCloud-Driver-Validation-Using-Postman)
+   
+- <b> API Testing Using Postman Automation</b>
+
+
  <br>
  <br>
 
