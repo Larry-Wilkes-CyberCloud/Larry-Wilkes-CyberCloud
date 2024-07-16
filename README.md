@@ -7,6 +7,7 @@
  <br>
  
   - <b> Manual API Testing Using Postman</b>
+       - [Policy Payment Options Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Policy-Payment-Options)
        - [Vehicle VIN validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman)
        - [Driver Validation API using Postman](https://github.com/Larry-Wilkes-CyberCloud/Larry-Wilkes-CyberCloud-Driver-Validation-Using-Postman)
        - [Vehicle Registered State Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Vehicle-Registered_State-Validation) 
