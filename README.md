@@ -1,8 +1,9 @@
 <h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes/">QA Automation Engineer</a></h1>
 
-<h2>👨‍💻 QA Automation Projects:</h2>
+<h2>👨‍💻QA Automation Projects:</h2>
 
-- <b>Project for Software Quality Associates (Playwright)</b>
+- <b>Playwright Projects</b>
+    - [Amazon Product Search Testing Automation with Playwright](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
     - [This project is aimed to design a test suite for SQA](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
  
