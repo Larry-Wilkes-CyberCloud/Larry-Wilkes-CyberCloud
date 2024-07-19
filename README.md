@@ -3,7 +3,7 @@
 <h2>👨‍💻QA Automation Projects:</h2>
 
 - <b>Playwright Projects</b>
-    - [Amazon Product Search Testing Automation with Playwright](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
+    - [Amazon Search Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
     - [This project is aimed to design a test suite for SQA](https://github.com/Larry-Wilkes-CyberCloud/playwright-tests-sqa)
  <br>
  
