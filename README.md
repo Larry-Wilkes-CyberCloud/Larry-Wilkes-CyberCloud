@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes/">QA Automation Engineer</a></h1>
+<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes/">Software QA Engineer</a></h1>
 
 <h2>👨‍💻QA Automation Projects:</h2>
 
