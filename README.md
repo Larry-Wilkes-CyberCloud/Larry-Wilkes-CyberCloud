@@ -4,8 +4,8 @@
 |-----------------------|-----------------|------------------------|----------------------|
 | Manual Testing        | JavaScript      | Jira                   | Splunk               |
 | Postman               | TypeScript      | Confluence             | Cribl                |
-| Playwright            | SQL             |                        | VSCode               |
-|                       |                 |                        | Docker               |
+| Playwright            | SQL             |                        | Docker               |
+|                       |                 |                        |                |
 
 <h2>👨‍💻QA Automation Projects:</h2>
 
