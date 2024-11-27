@@ -10,19 +10,19 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
-  - [Created a Splunk App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
+  - [Threat Hunting and Analysis App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
  
 - <b>Azure /Cloud Cybersecurity Projects</b>
-  - [Created a Live SOC/Honeynet in Azure](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
+  - [Live SOC/Honeynet in Azure](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
   
 - <b>ISO 27001 Projects</b>
-    - [Created an Information Asset Register Presentation](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
+    - [Information Asset Register Presentation](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
     
 - <b>Nessus Tanable Scans and Group Policy</b>
    - [Created basic, advanced, and advanced dynamic scans with Nessus and implemented group policy](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
 
 - <b>Data Loss Prevention</b>
-  - [Created DLP blocking file rule for removable storage device](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
+  - [DLP blocking file rule for removable storage device](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
 
 - <b>Information Security Awareness Campaign</b>
   - [IS Awareness Video](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
