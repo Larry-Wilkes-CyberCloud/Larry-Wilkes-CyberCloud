@@ -11,6 +11,7 @@
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
   - [Threat Hunting and Analysis App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
+  - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)     
  
 - <b>Azure /Cloud Cybersecurity Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
