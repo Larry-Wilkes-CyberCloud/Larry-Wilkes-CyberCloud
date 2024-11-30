@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Larry, a passionate and professional <a href="https://www.linkedin.com/in/larry-wilkes/">Cybersecurity Professional</a></h1>
+<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">Cybersecurity Professional</a></h1>
 
 | **Expertise**         | **Programming** | **Project Management** | **Others**           |
 |-----------------------|-----------------|------------------------|----------------------|
