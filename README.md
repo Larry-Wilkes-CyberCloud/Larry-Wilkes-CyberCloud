@@ -1,12 +1,5 @@
 <h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">IT and Data Security Professional</a></h1>
 
-| **Expertise**         | **Programming** | **Project Management** | **Others**           |
-|-----------------------|-----------------|------------------------|----------------------|
-| Manual Testing        | JavaScript      | Jira                   | Splunk               |
-| Postman               | TypeScript      | Confluence             | Cribl                |
-| Playwright            | SQL             |                        | Docker               |
-|                       |                 |                        |                      |
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
