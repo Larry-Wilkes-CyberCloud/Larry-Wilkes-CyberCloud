@@ -6,8 +6,9 @@
   - [Threat Hunting and Analysis App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
   - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)
  
- - <b>CRIBL Projects</b>
+- <b>CRIBL Projects</b>
    - [Cribl Stream in Action Syslog to S3 Elasticsearch](https://github.com/Larry-Wilkes-CyberCloud/Cribl-Stream-in-Action-Syslog-to-S3-Elasticsearch)    
+   - [Cribl Search Essentials & Architecture Lab](https://github.com/Larry-Wilkes-CyberCloud/Cribl-Search-Lab)
  
 - <b>Azure /Cloud Cybersecurity Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Larry-Wilkes-CyberCloud/Azure-Cloud-Soc)
@@ -15,7 +16,7 @@
 - <b>ISO 27001 Projects</b>
     - [Information Asset Register Presentation](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
     
-- <b>Nessus Tanable Scans and Group Policy</b>
+- <b>Nessus Tenable Scans and Group Policy</b>
    - [Created basic, advanced, and advanced dynamic scans with Nessus and implemented group policy](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
 
 - <b>Data Loss Prevention</b>
