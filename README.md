@@ -1,5 +1,11 @@
-<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">IT and Data Security Professional</a></h1>
+<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/"> GRC Engineer and Data Security Professional</a></h1>
 
+<h2>🛡️ GRC Engineering Projects:</h2>
+
+- <b>Infrastructure as Code / Compliance Automation</b>
+  - [Compliant S3 Bucket (Terraform, AWS) — NIST 800-53 SC-28, AU-3, AU-6, CM-6, AC-3 with machine-readable evidence](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone)
+
+---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
@@ -18,20 +24,15 @@
     
 - <b>Nessus Tenable Scans and Group Policy</b>
    - [Created basic, advanced, and advanced dynamic scans with Nessus and implemented group policy](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
-
 - <b>Data Loss Prevention</b>
   - [DLP blocking file rule for removable storage device](https://github.com/Larry-Wilkes-CyberCloud/Data-Loss-Prevention)
-
 - <b>Information Security Awareness Campaign</b>
   - [IS Awareness Video](https://github.com/Larry-Wilkes-CyberCloud/Information-Security-Awareness/tree/main)
-
 - <b>Social Engineering Investigation</b>
   - [Investigate E-mails sent in and report suspicious items](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation)
   
 ---
-
 <h2>👨‍💻 QA Automation Projects:</h2>
-
 - **Playwright Projects**
     - [Amazon Cart Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Cart-Functionality)
     - [Amazon Search Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
@@ -45,11 +46,7 @@
   
 - **Automation API Testing Using Postman**
     - [Driver API Automation Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Driver-API-Automation)
-
 ---
-
 <h2> 🤳 Connect with me:</h2>
-
 [<img align="left" alt="Larry Wilkes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/larry-wilkes-splunk-engineer/
