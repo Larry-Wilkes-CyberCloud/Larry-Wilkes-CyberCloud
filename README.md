@@ -5,6 +5,7 @@
 - <b>Infrastructure as Code / Compliance Automation</b>
   - [Compliant S3 Bucket (Terraform, AWS) — NIST 800-53 SC-28, AU-3, AU-6, CM-6, AC-3 with machine-readable evidence](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-23--compliant-s3-bucket-terraform-aws)
   - [Compliant GCS Bucket Module (Terraform, GCP) — NIST 800-53 SC-12, SC-13, SC-28, AU-11, CM-6, AC-3, reusable module with a policy-enforced negative test](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-24--compliant-gcs-bucket-module-terraform-gcp)
+  - [Immutable Evidence Vault with Cryptographic Signing (Terraform, AWS) — S3 Object Lock, tamper-resistant compliance evidence, Cosign-signed and independently verified](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-25--immutable-evidence-vault-with-cryptographic-signing-terraform-aws)
 ---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
