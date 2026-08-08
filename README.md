@@ -1,16 +1,17 @@
-<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/"> GRC Engineer and Data Security Professional</a></h1>
+<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">IT and Data Security Professional</a></h1>
 
 <h2>🛡️ GRC Engineering Projects:</h2>
 
 - <b>Infrastructure as Code / Compliance Automation</b>
   - [Compliant S3 Bucket (Terraform, AWS) — NIST 800-53 SC-28, AU-3, AU-6, CM-6, AC-3 with machine-readable evidence](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone)
+  - [Compliant GCS Bucket Module (Terraform, GCP) — NIST 800-53 SC-12, SC-13, SC-28, AU-11, CM-6, AC-3, reusable module with a policy-enforced negative test](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone)
 
 ---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
   - [Threat Hunting and Analysis App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
-  - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)
+  - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)<img width="662" height="591" alt="image_0" src="https://github.com/user-attachments/assets/ff6aa053-62ac-45fd-9102-16a5c2f79db1" />
  
 - <b>CRIBL Projects</b>
    - [Cribl Stream in Action Syslog to S3 Elasticsearch](https://github.com/Larry-Wilkes-CyberCloud/Cribl-Stream-in-Action-Syslog-to-S3-Elasticsearch)    
