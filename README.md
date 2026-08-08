@@ -11,7 +11,7 @@
 
 - <b>Splunk App/CyberSentinel: Threat Hunting and Analysis</b>
   - [Threat Hunting and Analysis App](https://github.com/Larry-Wilkes-CyberCloud/CyberySentinel)
-  - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)<img width="662" height="591" alt="image_0" src="https://github.com/user-attachments/assets/ff6aa053-62ac-45fd-9102-16a5c2f79db1" />
+  - [Threat Detection Workflows](https://github.com/Larry-Wilkes-CyberCloud/Threat-Detection-Workflows)
  
 - <b>CRIBL Projects</b>
    - [Cribl Stream in Action Syslog to S3 Elasticsearch](https://github.com/Larry-Wilkes-CyberCloud/Cribl-Stream-in-Action-Syslog-to-S3-Elasticsearch)    
