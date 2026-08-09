@@ -7,6 +7,7 @@
   - [Compliant GCS Bucket Module (Terraform, GCP) — NIST 800-53 SC-12, SC-13, SC-28, AU-11, CM-6, AC-3, reusable module with a policy-enforced negative test](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-24--compliant-gcs-bucket-module-terraform-gcp)
   - [Immutable Evidence Vault with Cryptographic Signing (Terraform, AWS) — S3 Object Lock, tamper-resistant compliance evidence, Cosign-signed and independently verified](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-25--immutable-evidence-vault-with-cryptographic-signing-terraform-aws)
   - [Compliance Policies in Rego (OPA, GCP) — policy-as-code enforcing NIST 800-53 SC-28, AC-3, CM-6 against a Terraform plan before apply, 8/8 tests passing](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-33--compliance-policies-in-rego-opa-gcp)
+  - [Conftest Policy Gate + AWS Rego Variants (OPA/Conftest, AWS) — cross-cloud NIST 800-53 SC-28, AC-3, CM-6 enforcement with a fail-closed CI gate script, proven against a deliberately broken plan](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-34--integrating-policy-as-code-with-terraform-via-conftest-aws)
 ---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
