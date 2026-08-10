@@ -51,6 +51,6 @@
 - **Automation API Testing Using Postman**
     - [Driver API Automation Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Driver-API-Automation)
 ---
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Larry Wilkes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/larry-wilkes-splunk-engineer/
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Larry Wilkes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/larry-wilkes-splunk-engineer/)
