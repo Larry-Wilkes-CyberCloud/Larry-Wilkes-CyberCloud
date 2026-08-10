@@ -36,7 +36,8 @@
   - [Investigate E-mails sent in and report suspicious items](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation)
   
 ---
-<h2>👨‍💻 QA Automation Projects:</h2>
+<h2>👨‍💻 QA Automation Projects:</h2
+                               
 - **Playwright Projects**
     - [Amazon Cart Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Cart-Functionality)
     - [Amazon Search Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
@@ -51,6 +52,6 @@
 - **Automation API Testing Using Postman**
     - [Driver API Automation Validation using Postman](https://github.com/Larry-Wilkes-CyberCloud/Driver-API-Automation)
 ---
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Larry Wilkes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/larry-wilkes-splunk-engineer/
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Larry Wilkes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/larry-wilkes-splunk-engineer/)
