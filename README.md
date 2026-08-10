@@ -35,7 +35,8 @@
   - [Investigate E-mails sent in and report suspicious items](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation)
   
 ---
-<h2>👨‍💻 QA Automation Projects:</h2>
+<h2>👨‍💻 QA Automation Projects:</h2
+                               
 - **Playwright Projects**
     - [Amazon Cart Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Cart-Functionality)
     - [Amazon Search Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Search-Functionality-Project)
