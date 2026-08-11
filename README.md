@@ -11,6 +11,7 @@
   - [GRC Evidence Pipeline (GitHub Actions + AWS OIDC) — fail-closed CI gate running Terraform plan, Conftest, and tfsec on every PR with keyless federated AWS auth, red/green PR demonstration in repo history](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-43--building-a-grc-evidence-pipeline-aws--github-actions)
   - [Evidence Chain of Custody with Cosign Signing (GitHub Actions, AWS, Sigstore) — cryptographically signed CI evidence uploaded to an Object Lock vault, verified via SHA-256 + Rekor transparency log, proven tamper-resistant with a real overwrite/detect/restore test](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone#lab-44--evidence-management--chain-of-custody-aws)
   - [AWS Security Services Baseline (CloudTrail, Terraform) — multi-region audit trail with log-file validation mapped to NIST 800-53 AU-2, AU-12, AU-10; documented and evidenced an account-level Security Hub restriction rather than skipping it silently](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/aws)
+  - [GCP Security Services Baseline (Workload Identity Federation, Terraform) — keyless GitHub Actions auth to GCP with a repo-scoped trust condition, proven with a live end-to-end auth run; Data Access audit logs enabled for Storage/KMS/IAM; documented a structural Org Policy restriction with real evidence](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/gcp)
 ---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
