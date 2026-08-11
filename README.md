@@ -1,4 +1,22 @@
-<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">IT and Data Security Professional</a></h1>
+<h1>Hi there, I'm Larry, a passionate <a href="https://www.linkedin.com/in/larry-wilkes/">GRC Engineer and Data Security Professional</a></h1>
+
+US Army Veteran | Cribl Certified 5X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Cribl](https://img.shields.io/badge/Cribl-F26722?style=flat)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![NIST 800--53](https://img.shields.io/badge/NIST%20800--53-1B3A57?style=flat)
+![OPA/Rego](https://img.shields.io/badge/OPA%2FRego-7D9D9C?style=flat)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Larry-Wilkes-CyberCloud&show_icons=true&theme=default&hide_border=true" width="380" alt="GitHub stats" />
+
+I build compliance-as-code — Terraform infrastructure that proves NIST 800-53 controls with machine-readable, cryptographically signed evidence, not just checkbox documentation. Background in Cribl/Splunk observability engineering and 20 years in law enforcement/corrections, now focused on GRC engineering and cloud security.
+
+**Currently building:** [cge-p-capstone](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone) — a full Terraform + Rego + GitHub Actions GRC pipeline with signed evidence chain-of-custody across AWS and GCP.
+
 
 <h2>🛡️ GRC Engineering Projects:</h2>
 
