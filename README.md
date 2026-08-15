@@ -1,4 +1,4 @@
-Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](https://www.linkedin.com/in/larry-wilkes/). I build compliance-as-code — Terraform infrastructure that proves NIST 800-53 controls with machine-readable, cryptographically signed evidence, not just checkbox documentation. Background in Cribl/Splunk observability engineering and 20 years in law enforcement/corrections, now focused on GRC engineering and cloud security.
+Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](https://www.linkedin.com/in/larry-wilkes-splunk-engineer/). I build compliance-as-code — Terraform infrastructure that proves NIST 800-53 controls with machine-readable, cryptographically signed evidence, not just checkbox documentation. Background in Cribl/Splunk observability engineering and 20 years in law enforcement/corrections, now focused on GRC engineering and cloud security.
 
 **US Army Veteran | Cribl Certified 5X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD)**
 
