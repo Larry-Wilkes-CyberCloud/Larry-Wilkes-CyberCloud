@@ -15,6 +15,8 @@ Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](
 
 <h2>🛡️ GRC Engineering Projects:</h2>
 
+Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence, passing policy tests, and NIST 800-53/HIPAA control citations you can verify yourself.
+
 - <b>Flagship Project — Acme Health GRC Capstone</b> ([repo](https://github.com/Larry-Wilkes-CyberCloud/acme-health-grc-capstone))
   - [Full HIPAA-defensible compliance pipeline (Terraform, Rego, GitHub Actions, OSCAL) — wraps a real deployed AWS workload (VPC, Lambda, API Gateway, DynamoDB, S3) with a customer-managed KMS key, 5 OPA policies enforcing HIPAA Security Rule controls with 14/14 tests passing, a signed evidence pipeline (Cosign + S3 Object Lock), and a validated OSCAL component definition — plus a real production bug found and fixed along the way](https://github.com/Larry-Wilkes-CyberCloud/acme-health-grc-capstone/blob/main/WRITEUP.md)
 
