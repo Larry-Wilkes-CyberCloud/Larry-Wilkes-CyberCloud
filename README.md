@@ -31,6 +31,9 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
   - [AWS Security Baseline (CloudTrail, Terraform) -- audit logging, documented service restriction](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/aws)
   - [GCP Security Baseline (Workload Identity Federation) -- keyless auth, live-verified](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/gcp)
   - [OSCAL Component Definition (compliance-trestle, NIST 800-53) -- machine-readable evidence traversal](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/oscal)
+
+- <b>Audit Analytics & Continuous Controls Monitoring (Python)</b>
+  - [NovaBridge CCM Suite (Python, pandas) — 6 CAAT detectors, $1.4M+ in flagged exposure, documented risk-prioritization scoring](https://github.com/Larry-Wilkes-CyberCloud/novabridge-ccm-suite)
 ---
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -47,7 +50,7 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
   
 - <b>ISO 27001 Projects</b>
     - [Information Asset Register Presentation](https://github.com/Larry-Wilkes-CyberCloud/IAR-Procedure)
-    
+
 - <b>Nessus Tenable Scans and Group Policy</b>
    - [Created basic, advanced, and advanced dynamic scans with Nessus and implemented group policy](https://github.com/Larry-Wilkes-CyberCloud/Nessus-Scans)
 - <b>Data Loss Prevention</b>
