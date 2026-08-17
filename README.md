@@ -1,6 +1,4 @@
-Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](https://www.linkedin.com/in/larry-wilkes-splunk-engineer/). I build compliance-as-code — Terraform infrastructure that proves NIST 800-53 controls with machine-readable, cryptographically signed evidence, not just checkbox documentation. Background in Cribl/Splunk observability engineering and 20 years in law enforcement/corrections, now focused on GRC engineering and cloud security.
-
-**US Army Veteran | Cribl Certified 5X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD) | Certified GRC Engineer, Practitioner (CGE-P)**
+Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](https://www.linkedin.com/in/larry-wilkes-splunk-engineer/). I build compliance-as-code — Terraform infrastructure that proves NIST 800-53 and HIPAA controls with machine-readable, cryptographically signed evidence, not just checkbox documentation. Background in Cribl/Splunk observability engineering and 20 years in law enforcement/corrections, now focused on GRC engineering, cloud security, and audit analytics.
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -11,7 +9,9 @@ Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](
 ![NIST 800--53](https://img.shields.io/badge/NIST%20800--53-1B3A57?style=flat)
 ![OPA/Rego](https://img.shields.io/badge/OPA%2FRego-7D9D9C?style=flat)
 
-**Currently building:** [cge-p-capstone](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone) — a full Terraform + Rego + GitHub Actions GRC pipeline with signed evidence chain-of-custody across AWS and GCP.
+**US Army Veteran | Cribl Certified 5X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD) | Certified GRC Engineer, Practitioner (CGE-P)**
+
+**Flagship project:** [Acme Health GRC Capstone](https://github.com/Larry-Wilkes-CyberCloud/acme-health-grc-capstone) — a HIPAA-defensible pipeline built end to end: Terraform, OPA policy-as-code, signed evidence, and OSCAL, with a real production bug found and fixed along the way.
 
 <h2>🛡️ GRC Engineering Projects:</h2>
 
