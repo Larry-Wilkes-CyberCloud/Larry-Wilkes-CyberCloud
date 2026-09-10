@@ -9,7 +9,7 @@ Hi there, I'm Larry, a passionate [GRC Engineer and Data Security Professional](
 ![NIST 800--53](https://img.shields.io/badge/NIST%20800--53-1B3A57?style=flat)
 ![OPA/Rego](https://img.shields.io/badge/OPA%2FRego-7D9D9C?style=flat)
 
-**US Army Veteran | Cribl Certified 5X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD) | Certified GRC Engineer, Practitioner (CGE-P)**
+**US Army Veteran | Cribl Certified 6X | Splunk Certified 2X | Certified GRC Engineer, Auditor Specialty (CGE-AUD) | Certified GRC Engineer, Practitioner (CGE-P)**
 
 **Flagship project:** [Acme Health GRC Capstone](https://github.com/Larry-Wilkes-CyberCloud/acme-health-grc-capstone) — a HIPAA-defensible pipeline built end to end: Terraform, OPA policy-as-code, signed evidence, and OSCAL, with a real production bug found and fixed along the way.
 
@@ -32,8 +32,9 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
   - [GCP Security Baseline (Workload Identity Federation) -- keyless auth, live-verified](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/gcp)
   - [OSCAL Component Definition (compliance-trestle, NIST 800-53) -- machine-readable evidence traversal](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/oscal)
 
-- <b>Cribl-as-Code / Data Pipeline Compliance</b>
+- <b>Cribl & Splunk-as-Code / Pipeline & Detection Compliance</b>
   - [Cribl Terraform Pipeline (Terraform, Cribl Stream) -- HIPAA data-minimization pipeline provisioned entirely via Terraform: Worker Group, Syslog + OpenTelemetry Sources, a masking/allowlist Pipeline citing HIPAA §164.514/§164.502(b) and NIST 800-53 SI-12, and encrypted S3 + OTLP Destinations](https://github.com/Larry-Wilkes-CyberCloud/cribl-terraform-pipeline)
+  - [Splunk Terraform Detections (Terraform, Splunk) -- NIST 800-53 AC-7/AC-6(9)-mapped SSH auth detections (saved searches + dashboard) provisioned entirely via Terraform, control ID cited in each search name](https://github.com/Larry-Wilkes-CyberCloud/splunk-terraform-detections)
 
 - <b>Audit Analytics & Continuous Controls Monitoring (Python)</b>
   - [NovaBridge CCM Suite (Python, pandas) — 6 CAAT detectors, $1.4M+ in flagged exposure, documented risk-prioritization scoring](https://github.com/Larry-Wilkes-CyberCloud/novabridge-ccm-suite)
