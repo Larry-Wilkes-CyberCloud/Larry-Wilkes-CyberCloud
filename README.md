@@ -32,6 +32,9 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
   - [GCP Security Baseline (Workload Identity Federation) -- keyless auth, live-verified](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/terraform/baselines/gcp)
   - [OSCAL Component Definition (compliance-trestle, NIST 800-53) -- machine-readable evidence traversal](https://github.com/Larry-Wilkes-CyberCloud/cge-p-capstone/tree/master/oscal)
 
+- <b>Cribl-as-Code / Data Pipeline Compliance</b>
+  - [Cribl Terraform Pipeline (Terraform, Cribl Stream) -- HIPAA data-minimization pipeline provisioned entirely via Terraform: Worker Group, Syslog + OpenTelemetry Sources, a masking/allowlist Pipeline citing HIPAA §164.514/§164.502(b) and NIST 800-53 SI-12, and encrypted S3 + OTLP Destinations](https://github.com/Larry-Wilkes-CyberCloud/cribl-terraform-pipeline)
+
 - <b>Audit Analytics & Continuous Controls Monitoring (Python)</b>
   - [NovaBridge CCM Suite (Python, pandas) — 6 CAAT detectors, $1.4M+ in flagged exposure, documented risk-prioritization scoring](https://github.com/Larry-Wilkes-CyberCloud/novabridge-ccm-suite)
 ---
