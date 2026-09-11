@@ -35,6 +35,7 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
 - <b>Cribl & Splunk-as-Code / Pipeline & Detection Compliance</b>
   - [Cribl Terraform Pipeline (Terraform, Cribl Stream) -- HIPAA data-minimization pipeline provisioned entirely via Terraform: Worker Group, Syslog + OpenTelemetry Sources, a masking/allowlist Pipeline citing HIPAA §164.514/§164.502(b) and NIST 800-53 SI-12, and encrypted S3 + OTLP Destinations](https://github.com/Larry-Wilkes-CyberCloud/cribl-terraform-pipeline)
   - [Splunk Terraform Detections (Terraform, Splunk) -- NIST 800-53 AC-7/AC-6(9)-mapped SSH auth detections (saved searches + dashboard) provisioned entirely via Terraform, control ID cited in each search name](https://github.com/Larry-Wilkes-CyberCloud/splunk-terraform-detections)
+  - [Splunk Multi-Node Deployment-as-Code (Ansible + Terraform, Splunk) -- Ansible provisions a real indexer/heavy-forwarder topology (conf files pushed, splunkd restarted), Terraform layers the index and NIST-mapped detections on top; verified end-to-end against live containers, 9,829 real events flowing indexer-side](https://github.com/Larry-Wilkes-CyberCloud/splunk-terraform-detections/tree/main/multi-node)
 
 - <b>Audit Analytics & Continuous Controls Monitoring (Python)</b>
   - [NovaBridge CCM Suite (Python, pandas) — 6 CAAT detectors, $1.4M+ in flagged exposure, documented risk-prioritization scoring](https://github.com/Larry-Wilkes-CyberCloud/novabridge-ccm-suite)
@@ -66,6 +67,7 @@ Real, deployed AWS/GCP infrastructure — not tutorials — with signed evidence
   
 ---
 <h2>👨‍💻 QA Automation Projects:</h2
+
                                
 - **Playwright Projects**
     - [Amazon Cart Functionality Testing](https://github.com/Larry-Wilkes-CyberCloud/Amazon-Cart-Functionality)
